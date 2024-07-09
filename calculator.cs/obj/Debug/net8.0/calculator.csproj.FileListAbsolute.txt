@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\bin\Debug\net8.0\calculator.exe
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\bin\Debug\net8.0\calculator.deps.json
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\bin\Debug\net8.0\calculator.dll
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\bin\Debug\net8.0\calculator.pdb
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.dll
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.pdb
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\fathan\calculator.cs\obj\Debug\net8.0\ref\calculator.dll

@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\bin\Debug\net8.0\Latihan_D2.exe
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\bin\Debug\net8.0\Latihan_D2.deps.json
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\bin\Debug\net8.0\Latihan_D2.runtimeconfig.json
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\bin\Debug\net8.0\Latihan_D2.dll
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\bin\Debug\net8.0\Latihan_D2.pdb
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.dll
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\refint\Latihan_D2.dll
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.pdb
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\Latihan_D2.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\fathan\Latihan_D2\obj\Debug\net8.0\ref\Latihan_D2.dll

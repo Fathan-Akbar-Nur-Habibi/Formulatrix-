@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\fathan\classstructure\bin\Debug\net8.0\classstructure.exe
+C:\Users\Batch 11\Desktop\fathan\classstructure\bin\Debug\net8.0\classstructure.deps.json
+C:\Users\Batch 11\Desktop\fathan\classstructure\bin\Debug\net8.0\classstructure.runtimeconfig.json
+C:\Users\Batch 11\Desktop\fathan\classstructure\bin\Debug\net8.0\classstructure.dll
+C:\Users\Batch 11\Desktop\fathan\classstructure\bin\Debug\net8.0\classstructure.pdb
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.dll
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\refint\classstructure.dll
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.pdb
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\classstructure.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\fathan\classstructure\obj\Debug\net8.0\ref\classstructure.dll

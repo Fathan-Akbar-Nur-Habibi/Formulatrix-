@@ -1,0 +1,4 @@
+C:\Users\Batch 11\Desktop\fathan\project tiga\obj\Debug\net8.0\project tiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\project tiga\obj\Debug\net8.0\project tiga.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\project tiga\obj\Debug\net8.0\project tiga.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\project tiga\obj\Debug\net8.0\project tiga.csproj.CoreCompileInputs.cache

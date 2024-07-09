@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\bin\Debug\net8.0\daytwolatihan.exe
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\bin\Debug\net8.0\daytwolatihan.deps.json
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\bin\Debug\net8.0\daytwolatihan.runtimeconfig.json
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\bin\Debug\net8.0\daytwolatihan.dll
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\bin\Debug\net8.0\daytwolatihan.pdb
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.dll
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\refint\daytwolatihan.dll
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.pdb
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\daytwolatihan.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\fathan\daytwolatihan\obj\Debug\net8.0\ref\daytwolatihan.dll
