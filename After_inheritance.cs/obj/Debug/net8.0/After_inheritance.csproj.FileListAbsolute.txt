@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\bin\Debug\net8.0\After_inheritance.exe
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\bin\Debug\net8.0\After_inheritance.deps.json
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\bin\Debug\net8.0\After_inheritance.runtimeconfig.json
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\bin\Debug\net8.0\After_inheritance.dll
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\bin\Debug\net8.0\After_inheritance.pdb
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.sourcelink.json
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.dll
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\refint\After_inheritance.dll
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.pdb
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\After_inheritance.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\fathan\After_inheritance.cs\obj\Debug\net8.0\ref\After_inheritance.dll

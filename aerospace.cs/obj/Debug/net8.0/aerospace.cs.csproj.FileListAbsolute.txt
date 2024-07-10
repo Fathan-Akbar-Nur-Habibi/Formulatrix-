@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\bin\Debug\net8.0\aerospace.cs.exe
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\bin\Debug\net8.0\aerospace.cs.deps.json
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\bin\Debug\net8.0\aerospace.cs.runtimeconfig.json
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\bin\Debug\net8.0\aerospace.cs.dll
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\bin\Debug\net8.0\aerospace.cs.pdb
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.sourcelink.json
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.dll
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\refint\aerospace.cs.dll
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.pdb
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\aerospace.cs.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\fathan\aerospace.cs\obj\Debug\net8.0\ref\aerospace.cs.dll
