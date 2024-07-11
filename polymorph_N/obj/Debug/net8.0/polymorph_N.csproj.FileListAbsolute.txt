@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\bin\Debug\net8.0\polymorph_N.exe
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\bin\Debug\net8.0\polymorph_N.deps.json
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\bin\Debug\net8.0\polymorph_N.runtimeconfig.json
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\bin\Debug\net8.0\polymorph_N.dll
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\bin\Debug\net8.0\polymorph_N.pdb
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.sourcelink.json
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.dll
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\refint\polymorph_N.dll
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.pdb
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\polymorph_N.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\fathan\polymorph_N\obj\Debug\net8.0\ref\polymorph_N.dll
