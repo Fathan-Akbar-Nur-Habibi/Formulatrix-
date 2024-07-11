@@ -72,8 +72,13 @@ class Program
 {     
 	static void Main ()
 	{
-		Controlsystem controlsystem = new Controlsystem("thermal boiler design"," transfer heat & fluid","EPC Management","4 kali feedback","1 kali forward fluid","noise and vibration machine");
-	    
+		Controlsystem controlsystem = new Controlsystem("thermal boiler design",
+											  " transfer heat & fluid",
+												"EPC Management",
+												"4 kali feedback",
+												"1 kali forward fluid",
+												"noise and vibration machine");
+		
 	}
 	
 	

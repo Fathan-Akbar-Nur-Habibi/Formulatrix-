@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -30,6 +30,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day 3", "day 3", "{4416E7A5-7188-4C9D-9E07-535B1DDD0EC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_inheritance", "After_inheritance.cs\After_inheritance.csproj", "{39FE9A08-3181-4D3D-BCDD-886A0630221E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance_composition", "inheritance_composition\inheritance_composition.csproj", "{433D16B0-089B-43E5-BBFD-8730027110B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day 4", "day 4", "{1298BFFF-A1D2-4BFB-B064-A2EA3561EE59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,10 @@ Global
 		{39FE9A08-3181-4D3D-BCDD-886A0630221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39FE9A08-3181-4D3D-BCDD-886A0630221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39FE9A08-3181-4D3D-BCDD-886A0630221E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433D16B0-089B-43E5-BBFD-8730027110B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433D16B0-089B-43E5-BBFD-8730027110B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433D16B0-089B-43E5-BBFD-8730027110B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433D16B0-089B-43E5-BBFD-8730027110B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -89,6 +97,8 @@ Global
 		SolutionGuid = {EF025377-4743-4A04-9A23-0010E4A53A51}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{433D16B0-089B-43E5-BBFD-8730027110B5} = {4416E7A5-7188-4C9D-9E07-535B1DDD0EC9}
+		{39FE9A08-3181-4D3D-BCDD-886A0630221E} = {4416E7A5-7188-4C9D-9E07-535B1DDD0EC9}
 		{ABF4B7CA-BC8D-4B04-874A-4FF56A1B8D06} = {4416E7A5-7188-4C9D-9E07-535B1DDD0EC9}
 		{5FD66F4D-AA42-4562-8505-833B0EE1C2FB} = {44602CD2-3826-405A-9B42-9AD39F595A72}
 		{69BAA2A7-16E1-480E-AB86-B2F8F20562A1} = {44602CD2-3826-405A-9B42-9AD39F595A72}
