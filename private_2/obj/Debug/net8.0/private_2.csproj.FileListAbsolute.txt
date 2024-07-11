@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\fathan\private_2\bin\Debug\net8.0\private_2.exe
+C:\Users\Batch 11\Desktop\fathan\private_2\bin\Debug\net8.0\private_2.deps.json
+C:\Users\Batch 11\Desktop\fathan\private_2\bin\Debug\net8.0\private_2.runtimeconfig.json
+C:\Users\Batch 11\Desktop\fathan\private_2\bin\Debug\net8.0\private_2.dll
+C:\Users\Batch 11\Desktop\fathan\private_2\bin\Debug\net8.0\private_2.pdb
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.sourcelink.json
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.dll
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\refint\private_2.dll
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.pdb
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\private_2.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\fathan\private_2\obj\Debug\net8.0\ref\private_2.dll
