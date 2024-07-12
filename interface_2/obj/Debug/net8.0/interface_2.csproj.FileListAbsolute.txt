@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\fathan\interface_2\bin\Debug\net8.0\interface_2.exe
+c:\Users\Batch 11\Desktop\fathan\interface_2\bin\Debug\net8.0\interface_2.deps.json
+c:\Users\Batch 11\Desktop\fathan\interface_2\bin\Debug\net8.0\interface_2.runtimeconfig.json
+c:\Users\Batch 11\Desktop\fathan\interface_2\bin\Debug\net8.0\interface_2.dll
+c:\Users\Batch 11\Desktop\fathan\interface_2\bin\Debug\net8.0\interface_2.pdb
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.sourcelink.json
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.dll
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\refint\interface_2.dll
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.pdb
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\interface_2.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\fathan\interface_2\obj\Debug\net8.0\ref\interface_2.dll
