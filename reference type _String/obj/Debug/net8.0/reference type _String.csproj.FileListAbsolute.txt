@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\fathan\reference type _String\bin\Debug\net8.0\reference type _String.exe
+c:\Users\Batch 11\Desktop\fathan\reference type _String\bin\Debug\net8.0\reference type _String.deps.json
+c:\Users\Batch 11\Desktop\fathan\reference type _String\bin\Debug\net8.0\reference type _String.runtimeconfig.json
+c:\Users\Batch 11\Desktop\fathan\reference type _String\bin\Debug\net8.0\reference type _String.dll
+c:\Users\Batch 11\Desktop\fathan\reference type _String\bin\Debug\net8.0\reference type _String.pdb
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.sourcelink.json
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.dll
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\refint\reference type _String.dll
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.pdb
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\reference type _String.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\fathan\reference type _String\obj\Debug\net8.0\ref\reference type _String.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project tiga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5709d775d2483bd15c6196f2db14b1696670360")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee998e3b87dd8069f275d114ad546d4f889f68e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("project tiga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project tiga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\fathan\value_type\bin\Debug\net8.0\value_type.exe
+c:\Users\Batch 11\Desktop\fathan\value_type\bin\Debug\net8.0\value_type.deps.json
+c:\Users\Batch 11\Desktop\fathan\value_type\bin\Debug\net8.0\value_type.runtimeconfig.json
+c:\Users\Batch 11\Desktop\fathan\value_type\bin\Debug\net8.0\value_type.dll
+c:\Users\Batch 11\Desktop\fathan\value_type\bin\Debug\net8.0\value_type.pdb
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.sourcelink.json
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.dll
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\refint\value_type.dll
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.pdb
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\value_type.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\fathan\value_type\obj\Debug\net8.0\ref\value_type.dll
