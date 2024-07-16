@@ -2,6 +2,6 @@
 {
 	static void Main()
 	{
-		var jk = new();
+		var jk = new ();
 	}
 }

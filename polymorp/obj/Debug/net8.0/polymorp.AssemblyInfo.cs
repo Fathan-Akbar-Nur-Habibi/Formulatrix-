@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("polymorp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34269a55f1aeb7924b0f67ccd82f22b184aa8f47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c3f9a80e1f3c81d13948bbfe418f6cf4debb58")]
 [assembly: System.Reflection.AssemblyProductAttribute("polymorp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("polymorp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
