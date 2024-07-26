@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partial", "partial\partial.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sealed", "sealed\sealed.csproj", "{6CD5EB5C-3CE8-41A6-9A49-62BEB00B5407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugger", "Debugger\Debugger.csproj", "{43B6F847-965E-4275-898C-B6927BB293B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{6CD5EB5C-3CE8-41A6-9A49-62BEB00B5407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CD5EB5C-3CE8-41A6-9A49-62BEB00B5407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CD5EB5C-3CE8-41A6-9A49-62BEB00B5407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B6F847-965E-4275-898C-B6927BB293B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B6F847-965E-4275-898C-B6927BB293B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B6F847-965E-4275-898C-B6927BB293B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B6F847-965E-4275-898C-B6927BB293B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
