@@ -187,6 +187,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationToken", "Cancel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAsyncAwait", "TaskAsyncAwait\TaskAsyncAwait.csproj", "{C491BCAA-CF85-45A1-A88D-0B3734395445}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotReload", "HotReload\HotReload.csproj", "{4AB1D564-7C97-4D92-8DAA-01E78BCA5F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCondition", "RaceCondition\RaceCondition.csproj", "{69CF1F35-AF9F-46FA-B04E-84A64A6EB04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lock", "Lock\Lock.csproj", "{330C99CA-A200-4D83-AD13-EB90017AF2B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "Semaphore\Semaphore.csproj", "{46ACB6B3-D31E-4D64-B53A-5063AD5783B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLock", "DeadLock\DeadLock.csproj", "{403C3225-33EF-4230-9336-78A6E3B2D7A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -517,6 +527,26 @@ Global
 		{C491BCAA-CF85-45A1-A88D-0B3734395445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C491BCAA-CF85-45A1-A88D-0B3734395445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C491BCAA-CF85-45A1-A88D-0B3734395445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB1D564-7C97-4D92-8DAA-01E78BCA5F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB1D564-7C97-4D92-8DAA-01E78BCA5F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB1D564-7C97-4D92-8DAA-01E78BCA5F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB1D564-7C97-4D92-8DAA-01E78BCA5F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CF1F35-AF9F-46FA-B04E-84A64A6EB04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CF1F35-AF9F-46FA-B04E-84A64A6EB04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CF1F35-AF9F-46FA-B04E-84A64A6EB04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CF1F35-AF9F-46FA-B04E-84A64A6EB04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330C99CA-A200-4D83-AD13-EB90017AF2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330C99CA-A200-4D83-AD13-EB90017AF2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330C99CA-A200-4D83-AD13-EB90017AF2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330C99CA-A200-4D83-AD13-EB90017AF2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ACB6B3-D31E-4D64-B53A-5063AD5783B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ACB6B3-D31E-4D64-B53A-5063AD5783B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ACB6B3-D31E-4D64-B53A-5063AD5783B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ACB6B3-D31E-4D64-B53A-5063AD5783B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403C3225-33EF-4230-9336-78A6E3B2D7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403C3225-33EF-4230-9336-78A6E3B2D7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403C3225-33EF-4230-9336-78A6E3B2D7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403C3225-33EF-4230-9336-78A6E3B2D7A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
