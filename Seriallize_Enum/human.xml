@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Name>jan</Name>
+    <Age>2</Age>
+    <Status>P1</Status>
+  </Human>
+  <Human>
+    <Name>Gib4</Name>
+    <Age>36</Age>
+    <Status>P2</Status>
+  </Human>
+  <Human>
+    <Name>Kaseng</Name>
+    <Age>29</Age>
+    <Status>P3</Status>
+  </Human>
+</ArrayOfHuman>
