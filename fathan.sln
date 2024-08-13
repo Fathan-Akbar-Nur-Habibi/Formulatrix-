@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -228,6 +228,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtCalculator.Test", "UtCalculator.Test\UtCalculator.Test.csproj", "{9860490D-B393-4F5C-8248-9576DBADE01A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameWork", "EntityFrameWork\EntityFrameWork.csproj", "{F4296DE1-132D-489A-B7A6-C40390212463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{04617540-40CA-4C4C-B3A5-94DFD0B16AE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -643,6 +645,10 @@ Global
 		{F4296DE1-132D-489A-B7A6-C40390212463}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4296DE1-132D-489A-B7A6-C40390212463}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4296DE1-132D-489A-B7A6-C40390212463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04617540-40CA-4C4C-B3A5-94DFD0B16AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04617540-40CA-4C4C-B3A5-94DFD0B16AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04617540-40CA-4C4C-B3A5-94DFD0B16AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04617540-40CA-4C4C-B3A5-94DFD0B16AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
