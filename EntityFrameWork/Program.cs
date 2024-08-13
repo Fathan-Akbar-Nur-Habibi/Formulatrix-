@@ -1,5 +1,5 @@
 ﻿﻿using System.Text.RegularExpressions;
-using MyEntityFramework;
+namespace EntityFrameWork;
 
 class Program
 {
