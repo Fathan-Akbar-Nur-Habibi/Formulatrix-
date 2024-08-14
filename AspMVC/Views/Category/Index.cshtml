@@ -1,0 +1,7 @@
+@model List<Category>; // for catch data backend in frontend
+
+<h> Category</h>
+@foreach (var i in Model) { 
+               <p>@i.CategoryId</p>
+               <p>@i.CategoryName</p>
+}
