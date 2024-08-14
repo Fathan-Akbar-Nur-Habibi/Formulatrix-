@@ -1,6 +1,15 @@
-@model List<Category>; //  catch data backend in frontend
-
+@model List<Category>;
+@if (TempData["Success"] is not null) 
+{
+  <p>@TempData["Success"]</p>
+}
+@if (TempData["Error"] is not null) 
+{
+  <p>@TempData["Error"]</p>
+}
 <h>Category</h>
+<br>
+<a class="btn btn-info" asp-controller="Category" asp-action="Create">Create</a>
 <table class="table">
   <thead>
     <tr>
@@ -19,9 +28,13 @@
             <td>
                 @category.CategoryName
             </td>
-
             <td>
-                Update Delete
+                @category.Description
+
+            </td>
+            <td>
+               <a class="btn btn-warning" asp-controller="Category" asp-action="Update" asp-route-id="@category.CategoryId">Update</a>
+               <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@category.CategoryId">Delete</a>
             </td>
         </tr>
     }
