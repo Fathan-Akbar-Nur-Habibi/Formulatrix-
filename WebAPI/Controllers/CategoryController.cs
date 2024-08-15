@@ -1,46 +1,20 @@
+using System.Reflection.Metadata;
 using System.Net.Http.Headers;
 using Microsoft.AspNetCore.Mvc;
+using WebAPI.Models;
+using WebAPI.Database;
+using Microsoft.AspNetCore.Mvc.Controllers;
+using System.Data.Common;
 
 namespace WebAPI.Controllers;
-
-public class CategoryController : ControllerBase
+[Route("api/[controller]")]
+[ApiController]
+public class CategoryController : ControllerBase,IControllerActivator<Category>
 {
-	private static readonly List<string> myCategories = new() {"Electronics", "Fruit"};
-	
-	[HttpGet]
-	public IActionResult GetAll () 
+	private DataContext _db;
+	public CategoryController(DataContext _db)
 	{
-		return Ok(myCategories);
-	} 
-	[Route("{id}")]
-	[HttpGet]
-	public IActionResult GetAll(int id) { 
-		if (id > myCategories.Count)
-		{
-			return NotFound("Not Found");
-		}
-		return Ok(myCategories[id]);
-	}
-	[HttpPost]
-	public IActionResult Add(string data)
-	
-	{
-		//myCategories.Add(data);
-		return Ok(myCategories);
-	}
-	//[Route("{id}")]
-	//[HttpPost]
-	
-	[Route("{id}")]
-	[HttpDelete]
-	public IActionResult Delete(int id)
-	{
-		if(id > myCategories.Count) 
-		{
-			return NotFound("Not Found");
-		}
-		myCategories.RemoveAt(id);
-		return Ok(myCategories);
+		_db = db;
 	}
 	
 }
